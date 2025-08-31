@@ -20,5 +20,5 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 ![Wireframe](/trabalho-pratico-semana-3-Evycostzocn/public/wireframe.jpg)
 
 ## Print da home-page criada
-![Print da home-page](/trabalho-pratico-semana-3-Evycostzocn/public/infinityhub.png)
 <<  COLOQUE A IMAGEM AQUI >>
+![Print da home-page](/trabalho-pratico-semana-3-Evycostzocn/public/infinityhub.png)
