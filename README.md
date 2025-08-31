@@ -8,17 +8,17 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Evelyn de Paula Costa
+- Matricula: 904838
+- Proposta de projeto escolhida: Site que faz recomendação de filmes, séries, livros e jogos.
+- Breve descrição sobre seu projeto: Com esse site, quando o usuário selecionar um gênero de seu interesse, aparecerá a recomendação de um filme, um livro, uma série e um jogo que combinam com o gênero escolhido.
 
 
 ## Print do(s) wireframe(s) criado
 
 <<  COLOQUE A IMAGEM AQUI >>
-
+![Wireframe](/trabalho-pratico-semana-3-Evycostzocn/public/wireframe.jpg)
 
 ## Print da home-page criada
-
+![Print da home-page](/trabalho-pratico-semana-3-Evycostzocn/public/infinityhub.png)
 <<  COLOQUE A IMAGEM AQUI >>
